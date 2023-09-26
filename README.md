@@ -30,6 +30,11 @@ Running the server:
 nom run dev
 ```
 
+Postman collection of api (import in Postman):
+```bash
+task-managment-api.postman_collection.json
+```
+
 ## Configuration
 
 Variables for the environment
